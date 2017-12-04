@@ -1,0 +1,2 @@
+# onefile
+For test purposes
